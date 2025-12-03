@@ -63,4 +63,4 @@ Caso não tenha o ambiente Rust configurado (necessário para o comando `cargo`)
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-Para Windows, faça o download do instalador oficial em [rustup.rs](https://sh.rustup.rs).
+Para Windows, faça o download do instalador oficial em [rustup.rs](https://rustup.rs).
